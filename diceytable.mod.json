@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "1.0",
+  "id": "diceytable-validation-room",
+  "name": "DiceyTable Validation Room",
+  "version": "0.1.0",
+  "type": "room-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "capabilities": {
+    "version": "1",
+    "allowed": [
+      "log"
+    ]
+  },
+  "license": "MIT",
+  "tags": []
+}
