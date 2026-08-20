@@ -3,7 +3,7 @@
   "id": "diceytable-validation-room",
   "name": "DiceyTable Validation Room",
   "version": "0.3.0",
-  "type": "component-pack",
+  "type": "room-pack",
   "entry": {
     "setup": "setup.json"
   },
