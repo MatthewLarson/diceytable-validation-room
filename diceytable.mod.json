@@ -2,8 +2,8 @@
   "schemaVersion": "1.0",
   "id": "diceytable-validation-room",
   "name": "DiceyTable Validation Room",
-  "version": "0.2.0",
-  "type": "room-pack",
+  "version": "0.3.0",
+  "type": "component-pack",
   "entry": {
     "setup": "setup.json"
   },
